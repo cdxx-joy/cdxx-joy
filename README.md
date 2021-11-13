@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joyonto Kumar Roy
+- 👋 Hi, I’m Joyonto 
 - 👀 I’m interested in backend web development also new technologies additionally I've keen interest on embbeded systems and IOT.
 - 🌱 I’m currently learning the basics of programming languages...😂
 - 💞️ I’m not looking to collaborate on anything yet.
